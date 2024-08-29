@@ -5,7 +5,7 @@
 ### ✍️[Kỹ thuật lập trình - Nguyễn Thanh Tùng - Athena](https://github.com/trandinhhao/DSA-Documents-Hub/tree/main/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Nguy%E1%BB%85n%20Thanh%20T%C3%B9ng%20-%20Athena)
 - **Bộ này mình cố tìm mà không tìm đủ được, nhiều bài tập rất hay nhưng hơi khó, phù hợp để tham khảo**
 
-### ✍️[Quy Hoạch Động](https://github.com/trandinhhao/DSA-Documents-Hub/tree/main/Quy_Hoach_Dong)
+### ✍️[Quy Hoạch Động](https://github.com/trandinhhao/DSA-Documents-Hub/tree/main/Dynamic_Programming)
 - **Gồm nhiều tài liệu QHD hay, từ các trường THPT chuyên lớn trên cả nước**
 
 (update)
