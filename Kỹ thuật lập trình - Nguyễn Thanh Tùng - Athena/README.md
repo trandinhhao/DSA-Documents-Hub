@@ -108,6 +108,6 @@
 - **Số lượng cách liên thông hóa đồ thị**
 - **Bài tập luyện tập**
 
-### ✍️Quyển 16: [Click here](https://drive.google.com/file/d/1m_q9rtvXG9SDnLVO-ycUJJd_5edaBBQy/view?usp=sharing)
+### ✍️Quyển 17: [Click here](https://drive.google.com/file/d/1m_q9rtvXG9SDnLVO-ycUJJd_5edaBBQy/view?usp=sharing)
 - **Bài tập luyện tập**
 
